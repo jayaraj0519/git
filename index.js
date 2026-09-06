@@ -1,5 +1,5 @@
 let name = "Jayaraj";
-let age = 20;
+let city="Vellore";
 
-console.log("Hello " + name);
-console.log("Your age is " + age);
+console.log("Hello " +name);
+console.log("Your city is "+city );
